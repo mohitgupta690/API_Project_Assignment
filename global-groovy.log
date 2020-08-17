@@ -1,0 +1,38 @@
+2020-08-10 11:28:05,591 INFO  [log] 2 and 3
+2020-08-10 11:28:05,597 INFO  [log] chinuminu1234xy@gmail.com
+2020-08-10 11:28:05,600 INFO  [log] ramg
+2020-08-10 11:28:05,601 INFO  [log] shamg
+2020-08-10 11:28:17,566 INFO  [log] Status: FINISHED, time taken for TestCase was: 11881 ms
+2020-08-10 11:28:17,588 INFO  [log] Number of test steps which ran: 8
+2020-08-10 11:28:17,591 INFO  [log] chinuminu12345xy@gmail.com
+2020-08-10 11:28:17,591 INFO  [log] ramg
+2020-08-10 11:28:17,591 INFO  [log] shamg
+2020-08-10 11:28:28,733 INFO  [log] Status: FINISHED, time taken for TestCase was: 11135 ms
+2020-08-10 11:28:28,741 INFO  [log] Number of test steps which ran: 8
+2020-08-11 21:41:55,141 INFO  [log] 2 and 3
+2020-08-11 21:41:55,150 INFO  [log] ayush1@gmail.com
+2020-08-11 21:41:55,153 INFO  [log] ramg
+2020-08-11 21:41:55,154 INFO  [log] shamg
+2020-08-11 21:42:07,692 INFO  [log] Status: FINISHED, time taken for TestCase was: 12467 ms
+2020-08-11 21:42:07,711 INFO  [log] Number of test steps which ran: 10
+2020-08-11 21:42:07,717 INFO  [log] ayush2@gmail.com
+2020-08-11 21:42:07,718 INFO  [log] ramg
+2020-08-11 21:42:07,718 INFO  [log] shamg
+2020-08-11 21:42:21,357 INFO  [log] Status: FINISHED, time taken for TestCase was: 13597 ms
+2020-08-11 21:42:21,358 INFO  [log] Number of test steps which ran: 10
+2020-08-11 21:42:21,661 INFO  [log] 3
+2020-08-11 21:42:21,668 INFO  [log] zen@gmail.com
+2020-08-11 21:42:21,670 INFO  [log] ram
+2020-08-11 21:42:21,672 INFO  [log] sham
+2020-08-11 21:42:34,348 INFO  [log] Status: FINISHED, time taken for TestCase was: 12639 ms
+2020-08-11 21:42:34,349 INFO  [log] Number of test steps which ran: 10
+2020-08-11 21:42:34,353 INFO  [log] zen123@gmail.com
+2020-08-11 21:42:34,355 INFO  [log] ram
+2020-08-11 21:42:34,364 INFO  [log] sham
+2020-08-11 21:42:46,942 INFO  [log] Status: FINISHED, time taken for TestCase was: 12553 ms
+2020-08-11 21:42:46,942 INFO  [log] Number of test steps which ran: 10
+2020-08-11 21:42:46,944 INFO  [log] zen12453@gmail.com
+2020-08-11 21:42:46,946 INFO  [log] ram
+2020-08-11 21:42:46,949 INFO  [log] sham
+2020-08-11 21:42:59,154 INFO  [log] Status: FINISHED, time taken for TestCase was: 12174 ms
+2020-08-11 21:42:59,154 INFO  [log] Number of test steps which ran: 10
