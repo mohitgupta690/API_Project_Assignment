@@ -36,3 +36,13 @@
 2020-08-11 21:42:46,949 INFO  [log] sham
 2020-08-11 21:42:59,154 INFO  [log] Status: FINISHED, time taken for TestCase was: 12174 ms
 2020-08-11 21:42:59,154 INFO  [log] Number of test steps which ran: 10
+2020-08-23 18:55:36,662 INFO  [log] Login(Tc01)
+2020-08-23 18:55:36,663 INFO  [log] b5e168ed309f1d034ba7582bb1e47868f9c9f6a6
+2020-08-23 18:55:37,158 INFO  [log] 2 and 2
+2020-08-23 18:55:37,165 INFO  [log] upskills_admin
+2020-08-23 18:55:37,169 INFO  [log] Talent4$$
+2020-08-23 18:55:38,499 INFO  [log] {"success":1,"error":[],"data":{"id":1755}}
+2020-08-23 18:55:38,500 INFO  [log] 1755
+2020-08-23 18:55:39,079 INFO  [log] 2 and 2
+2020-08-23 18:55:39,080 INFO  [log] 2
+2020-08-23 18:55:39,080 INFO  [log] 3
